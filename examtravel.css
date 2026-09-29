@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+   height: 65px;
+    display: flex;
+    align-items: center;
+    background-color:white;
+    border-bottom: 1px solid white;
+}
+.head{
+   width: 32%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(251, 248, 248);
+    color: rgb(12, 12, 12);
+    font-size: 21px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.head2{
+     width: 43%;
+    display: flex;
+    justify-content: center;
+    gap: 55px;}
+.navbar a{
+    gap: 20px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+}
+.mountains{
+    background-image: url(./src/prince5555555555555.jpg);
+        width: 5800px;
+    height: 9900px;
+background-repeat: no-repeat;
+
+}
+.mountains img{
+    width: 5800px;
+    height: 9900px;
+}
+.mountains h1{
+  
+    font-size: 25px;
+}
+.mountains p{
+  
+    font-size: 10px;
+}
+.mountains button{
+    font-size: 15px;
+    color: rgb(250, 202, 8);
+}
+.form{
+
+    border: 6px solid black;
+ width: 300px;
+    height: 500px;
+}
